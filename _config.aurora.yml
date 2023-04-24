@@ -9,8 +9,8 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Aurora's Blog
-  author: Aurora
+  subtitle: Welcome to Juzzzi`s Blob
+  author: Juzzzi
   nick: Auroral UI
   description:
   link: '/'
@@ -138,8 +138,8 @@ busuanzi:
 copy_protection:
   enable: true
   author:
-    cn: 作者
-    en: Author
+    cn: Juzzzi
+    en: Juzzzi
   link:
     cn: 本文来自于
     en: Article is from
