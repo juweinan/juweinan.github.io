@@ -4,22 +4,21 @@
 
 # Site
 title: Juzzzi
-subtitle: ''
-description: 'I never expect this blob will be popular，But I will become a better myself'
-keywords: 前端、Web、Vue、源码、React
+subtitle: 'Live a good life meet slowly' # 好好生活慢慢相遇
+description: 'I never expect my blog will be popular，But I will strive to become a better myself'
+keywords: 前端、微前端、源码、Vue、React、NodeJs
 author: Juzzzi
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://juzzzi.com/
-# permalink: :year/:month/:day/:title/
+url: https://juweinan.github.io/
 permalink: /post/:title.html
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -45,7 +44,6 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  # enable: true
   enable: false
   line_number: true
   auto_detect: false
@@ -53,9 +51,7 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
-  # enable: false
   enable: true
-  # preprocess: true
   preprocess: false
   line_number: true
   tab_replace: ''
@@ -101,9 +97,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-theme: fluid
-# theme: aurora
+# theme: fluid
+theme: aurora
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

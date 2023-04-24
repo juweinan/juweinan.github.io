@@ -9,15 +9,15 @@
 #！ @docs https://aurora.tridiamond.tech/guide/configuration.html
 #! ---------------------------------------------------------------
 site:
-  subtitle: Welcome to Juzzzi`s Blob
+  subtitle: I"ll try anything once # 人生苦短，何妨一试
   author: Juzzzi
-  nick: Auroral UI
-  description:
+  nick: juweinanbunan
+  description: 专注于写BUG的非著名前端开发工程师
   link: '/'
-  language: en
+  language: cn
   multi_language: true
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
-  avatar: https://img-blog.csdnimg.cn/20210313122054101.png
+  avatar: https://huyaimg.msstatic.com/avatar/1094/28/ba44a573219dff260387374af68a97_180_135.jpg?1679369771
   beian:
     number: ''
     link: ''
