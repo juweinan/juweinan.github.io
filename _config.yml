@@ -3,18 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Juzzzi
 subtitle: ''
-description: ''
-keywords:
-author: John Doe
-# language: en
+description: 'I never expect this blob will be popular，But I will become a better myself'
+keywords: 前端、Web、Vue、源码、React
+author: Juzzzi
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://juweinan.github.io/
+url: https://juzzzi.com/
 # permalink: :year/:month/:day/:title/
 permalink: /post/:title.html
 permalink_defaults:
