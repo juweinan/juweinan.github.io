@@ -105,13 +105,13 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
-  id: uid
-  language: en
+  clientID: 'd7ef7e9e63938b98a76f'
+  clientSecret: 'f0d09ac2effa96d7b9d1c9e6e6d7622e02d7ec99'
+  repo: 'juweinan.github.io'
+  owner: 'juweinan'
+  admin: ['juweinan']
+  id: location.pathname
+  language: zh-CN
   distractionFreeMode: true
   recentComment: true
   proxy: ''
